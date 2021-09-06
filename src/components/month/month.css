@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    width: 70%;
+    margin: 4% auto;
+}
+td{
+    border: 1px solid;
+    vertical-align: baseline;
+    padding: 1%;
+}
+tr{
+    height: 6vw;
+}
+.passive{
+    background-color: gray;
+}
+.active:active{
+    background-color: red;
+}

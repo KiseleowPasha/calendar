@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "title": "January",
+    "rus": "Январь"
+  },
+  {
+    "id": 1,
+    "title": "February",
+    "rus": "Февраль"
+  },
+  {
+    "id": 2,
+    "title": "March",
+    "rus": "Март"
+  },
+  {
+    "id": 3,
+    "title": "April",
+    "rus": "Апрель"
+  },
+  {
+    "id": 4,
+    "title": "May",
+    "rus": "Май"
+  },
+  {
+    "id": 5,
+    "title": "June",
+    "rus": "Июнь"
+  },
+  {
+    "id": 6,
+    "title": "July",
+    "rus": "Июль"
+  },
+  {
+    "id": 7,
+    "title": "August",
+    "rus": "Август"
+  },
+  {
+    "id": 8,
+    "title": "September",
+    "rus": "Сентябрь"
+  },
+  {
+    "id": 9,
+    "title": "October",
+    "rus": "Октябрь"
+  },
+  {
+    "id": 10,
+    "title": "November",
+    "rus": "Ноябрь"
+  },
+  {
+    "id": 11,
+    "title": "December",
+    "rus": "Декабрь"
+  }
+]
